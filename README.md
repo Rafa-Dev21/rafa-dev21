@@ -25,7 +25,7 @@ Técnico em Desenvolvimento de Sistemas (ETEC Jardim Ângela). Graduando em Sist
 - [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
 - [Suporte de Domingo](https://suportededomingo.com.br/)
 - [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
+- [Instagram - Rafa_Zurgadao](https://www.instagram.com/rafa_zurgadaoo/)
 
 ---
 
