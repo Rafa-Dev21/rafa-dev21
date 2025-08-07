@@ -17,7 +17,7 @@ Técnico em Desenvolvimento de Sistemas (ETEC Jardim Ângela). Graduando em Sist
 ## Projetos em destaque
 
 - [TechTodoDia](https://techtododia.com.br/) – Portal de notícias sobre tecnologia.
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
+- [Orgulho Cacheado](https://orgulhocacheado.com.br/) – Portal de notícias sobre cabelos cacheados.
 - [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
 
 ## Contato
