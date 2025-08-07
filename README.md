@@ -12,7 +12,13 @@
 
 ## Sobre
 
-Técnico em Desenvolvimento de Sistemas (ETEC Jardim Ângela). Graduando em Sistemas para Internet (SENAC)
+Olá! Eu sou Rafael de Oliveira Lima, Técnico em Desenvolvimento de Sistemas formado pela ETEC Jardim Ângela e atualmente graduando em Sistemas para Internet pelo SENAC. Tenho paixão por tecnologia e desenvolvimento de soluções digitais, com foco em programação mobile e web.
+
+Durante minha formação, adquiri conhecimentos práticos em desenvolvimento mobile utilizando Java, além de habilidades sólidas em tecnologias web como HTML, CSS e JavaScript. Meu interesse é criar aplicações funcionais, responsivas e intuitivas, que proporcionem uma boa experiência para os usuários.
+
+Sou dedicado, curioso e sempre busco aprender novas tecnologias e práticas para aprimorar meus projetos. Acredito que compartilhar conhecimento e colaborar em projetos é fundamental para o crescimento profissional e para contribuir com a comunidade de desenvolvedores.
+
+Aqui no GitHub, você encontrará meus projetos relacionados a mobile e web, além de estudos e experimentos com novas ferramentas e frameworks. Fique à vontade para explorar e trocar ideias!
 
 ## Projetos em destaque
 
