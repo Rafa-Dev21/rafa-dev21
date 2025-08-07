@@ -16,7 +16,7 @@ Técnico em Desenvolvimento de Sistemas (ETEC Jardim Ângela). Graduando em Sist
 
 ## Projetos em destaque
 
-- [TechTodoDia](https://techtododia.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
+- [TechTodoDia](https://techtododia.com.br/) – Portal de notícias sobre tecnologia.
 - [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
 - [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
 
