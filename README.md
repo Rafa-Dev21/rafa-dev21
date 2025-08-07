@@ -18,7 +18,7 @@ Técnico em Desenvolvimento de Sistemas (ETEC Jardim Ângela). Graduando em Sist
 
 - [TechTodoDia](https://techtododia.com.br/) – Portal de notícias sobre tecnologia.
 - [Orgulho Cacheado](https://orgulhocacheado.com.br/) – Portal de notícias sobre cabelos cacheados.
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
+- [Star Kids](https://www.mediafire.com/file/w5co6424uux7ien/Star_Kids.apk/file) – Aplicativo Mobile para Alfabetização de Crianças.
 
 ## Contato
 
